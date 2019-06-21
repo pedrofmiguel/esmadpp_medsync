@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306832882666",
+    "firebase_url": "https://medsync-android-pdm.firebaseio.com",
+    "project_id": "medsync-android-pdm",
+    "storage_bucket": "medsync-android-pdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306832882666:android:a22c283a9ec49799",
+        "android_client_info": {
+          "package_name": "com.example.login2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306832882666-s1egrla2l6mgh9fdgtni68u4qsrfjpte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login2",
+            "certificate_hash": "b4fd59feea3cd4d07b1d7ebbcc957671de6c83dd"
+          }
+        },
+        {
+          "client_id": "306832882666-pgejk3le1s8qrgv1lqmdcce94uldq5m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-LlqP0dDFyO_FtQZTGAoIe-lfPawdO2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306832882666-pgejk3le1s8qrgv1lqmdcce94uldq5m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
